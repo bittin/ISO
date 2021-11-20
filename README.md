@@ -8,7 +8,7 @@
 
 [Development Releases](https://github.com/endeavouros-team/ISO/releases/tag/0-EndeavourOS-development-ISO-releases)
 
-![Live-Session-Screenshot](https://raw.githubusercontent.com/endeavouros-team/screenshots/master/eos-01-21-xfce4.png)
+![Live-Session-Screenshot](https://raw.githubusercontent.com/endeavouros-team/screenshots/master/eos-installer-iso-nov-2021.png)
 
 ---
 
