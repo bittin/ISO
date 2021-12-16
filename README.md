@@ -37,3 +37,20 @@ sha512sum creation:
 create torrent:
 
 `mktorrent --announce=udp://tracker.openbittorrent.com:80 -a udp://tracker.torrent.eu.org:451/announce -a udp://thetracker.org:80/announce -a udp://tracker.dutchtracking.com:6969/announce -a udp://tracker.opentrackr.org:1337/announce -c endeavouros-2021.02.02-x86_64.iso -n endeavouros-2021.02.02-x86_64.iso -o endeavouros-2021.02.02-x86_64.iso.torrent -v /path/to/iso/endeavouros-2021.02.02-x86_64.iso -w https://mirror.alpix.eu/endeavouros/iso/endeavouros-2021.02.02-x86_64.iso -p` 
+
+
+## save virtualbox ova to rebuild packages for HotFix:
+
+Make VM image smaller is to erase empty space inside the VM:
+
+`sudo dd if=/dev/zero of=/emptyspace`
+
+`sudo rm -rf /emptyspace`
+
+power down the VM.
+
+use vmbox tool to compact the vm-disk:
+
+`VBoxManage modifyhd --compact nameofthedisk.vdi`
+
+and now create the ova image from virtualbox-manager.
