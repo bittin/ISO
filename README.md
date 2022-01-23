@@ -34,7 +34,7 @@ sha512sum creation:
 `sha512sum endeavouros-2019.12.03-x86_64.iso > endeavouros-2021.02.02-x86_64.iso.sha512sum`
 
 
-create torrent:
+## Create torrent:
 
 `mktorrent --announce=udp://tracker.openbittorrent.com:80 -a udp://tracker.torrent.eu.org:451/announce -a udp://thetracker.org:80/announce -a udp://tracker.dutchtracking.com:6969/announce -a udp://tracker.opentrackr.org:1337/announce -c endeavouros-2021.02.02-x86_64.iso -n endeavouros-2021.02.02-x86_64.iso -o endeavouros-2021.02.02-x86_64.iso.torrent -v /path/to/iso/endeavouros-2021.02.02-x86_64.iso -w https://mirror.alpix.eu/endeavouros/iso/endeavouros-2021.02.02-x86_64.iso` 
 
