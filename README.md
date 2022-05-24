@@ -15,12 +15,12 @@
 
 **How to handle ISO releases:**
 
-import private key:
-`gpg --import private_key_endeavour.gpg`
+import private key:  (if changed machine or new install)
+`gpg --import private_key.gpg`
 
 sign the iso-file:
 
-`gpg --default-key info@endeavouros.com --output endeavouros-2021.02.02-x86_64.iso --detach-sig endeavouros-2021.02.02-x86_64.iso`
+`gpg --default-key yourname@endeavouros.com --output endeavouros-2021.02.02-x86_64.iso --detach-sig endeavouros-2021.02.02-x86_64.iso`
 
 verify:
 
