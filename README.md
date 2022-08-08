@@ -31,7 +31,7 @@ for check:
 
 sha512sum creation:
 
-`sha512sum endeavouros-2019.12.03-x86_64.iso > endeavouros-2021.02.02-x86_64.iso.sha512sum`
+`sha512sum endeavouros-2021.02.02-x86_64.iso > endeavouros-2021.02.02-x86_64.iso.sha512sum`
 
 
 ## Create torrent:
