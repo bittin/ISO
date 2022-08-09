@@ -20,14 +20,14 @@ import private key:  (if changed machine or new install)
 
 sign the iso-file:
 
-`gpg --default-key yourname@endeavouros.com --output endeavouros-2021.02.02-x86_64.iso --detach-sig endeavouros-2021.02.02-x86_64.iso`
+`gpg --default-key yourname@endeavouros.com --output isoname.iso.sig --detach-sig isoname.iso`
 
 verify:
 
 for check:
 `gpg  --recv CB23504F`
 
-`gpg --verify endeavouros-2021.02.02-x86_64.iso.sig`
+`gpg --verify isoname.iso.sig`
 
 sha512sum creation:
 
