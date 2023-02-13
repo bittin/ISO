@@ -2,13 +2,11 @@
 
 [![Maintenance](https://img.shields.io/maintenance/yes/2023.svg)]()  [![Downloads](https://img.shields.io/github/downloads/endeavouros-team/ISO/total)]()
 
-![autobuild](https://img.shields.io/github/v/release/endeavouros-team/ISO?logo=github)
+![autobuild](https://img.shields.io/github/v/release/endeavouros-team/ISO?logo=iso)
 
 [EndeavourOS download page](https://endeavouros.com/latest-release)
 
 [Release archive](https://github.com/endeavouros-team/ISO/releases/tag/1-EndeavourOS-ISO-releases-archive)
-
-[Development Releases](https://github.com/endeavouros-team/ISO/releases/tag/0-EndeavourOS-development-ISO-releases)
 
 ![Live-Session-Screenshot](https://raw.githubusercontent.com/endeavouros-team/screenshots/master/eos-installer-iso-nov-2021.png)
 
