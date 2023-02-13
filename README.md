@@ -2,6 +2,8 @@
 
 [![Maintenance](https://img.shields.io/maintenance/yes/2023.svg)]()  [![Downloads](https://img.shields.io/github/downloads/endeavouros-team/ISO/total)]()
 
+![autobuild](https://img.shields.io/github/v/release/endeavouros-team/ISO?logo=github)
+
 [EndeavourOS download page](https://endeavouros.com/latest-release)
 
 [Release archive](https://github.com/endeavouros-team/ISO/releases/tag/1-EndeavourOS-ISO-releases-archive)
