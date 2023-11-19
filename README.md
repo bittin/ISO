@@ -1,6 +1,6 @@
 # ISO For EndeavourOS
 
-[![Maintenance](https://img.shields.io/maintenance/yes/2023.svg)]()  [![Downloads](https://img.shields.io/github/downloads/endeavouros-team/ISO/total)]()
+[![Maintenance](https://img.shields.io/maintenance/yes/2022.svg)]()  [![Downloads](https://img.shields.io/github/downloads/endeavouros-team/ISO/total)]()
 
 [![autobuild](https://img.shields.io/github/v/release/endeavouros-team/ISO?logo=github)]()
 
