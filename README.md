@@ -4,9 +4,11 @@
 
 [![autobuild](https://img.shields.io/github/v/release/endeavouros-team/ISO?logo=github)]()
 
+**We do not use this Repository for ISO Releases anymore up from the Release of Galileo ISO please use one of the mirror links from the official Downloadpage:**
+
 [EndeavourOS download page](https://endeavouros.com/latest-release)
 
-[Release archive](https://github.com/endeavouros-team/ISO/releases/tag/1-EndeavourOS-ISO-releases-archive)
+[Release archive](https://github.com/endeavouros-team/ISO/releases/tag/1-EndeavourOS-ISO-releases-archive) // not used anymore up from Galileo ISO Relase
 
 ![Live-Session-Screenshot](https://raw.githubusercontent.com/endeavouros-team/screenshots/master/eos-installer-iso-nov-2021.png)
 
